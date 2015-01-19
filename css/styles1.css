@@ -1,0 +1,197 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+/* header information */
+#header {
+	background: url(../images/header_image.jpg) top center no-repeat;
+	background-size: cover;
+	background-position: center; 
+}
+
+/* header tag color */
+#header h1, h2, h4, h5 {
+	text-align: center;
+	color: #1241ac;
+}
+
+/* header navigation */
+#navigation {
+	text-align: right;
+	color: #1241ac;
+}
+
+/* header navigation */
+#navigation nav ul li {
+	display: inline-block;
+	padding-top: 20px;
+	font-size: 1.2em;
+	list-style-type: none;
+}
+
+#header .logo {
+	padding-top: 0px;
+}
+
+/* unvisited link */
+a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #0000FF;
+    text-decoration: none;
+}
+
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+}
+
+/* header section "free trial" */
+.trial {
+	margin-top: 65px;
+}
+
+/* h5 sentence free two week trial... */
+.trial1 {
+	padding-top: 5px;
+}
+
+/* header input buttons */
+.buttons-header {
+	text-align: center;
+}
+
+/* main content-what is jottly */
+#main_content {
+	padding-top: 15px;
+}
+
+/* main content h3 */
+#main_content h3 {
+	color: #1241ac;
+}
+
+/* font color for all p tags */
+p {
+	color: #1241ac;
+}
+
+
+/* plans and pricing section */
+#plans {
+	background-color: #dae4fb;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+/* plans and pricing h4 tag */
+#plans h4 {
+	text-align: left;
+}
+
+/* plans and pricing offering rectangle */
+.rectangle1 {
+	background-color: white;
+	border: thin solid #dae4fb;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-left: 25px;
+	margin-bottom: 15px;
+	margin-left: 65px;
+}
+
+/* plans and pricing orange icons */
+.rectangle1 img {
+	padding-left: 15px;
+	padding-bottom: 10px;
+}
+
+/* plans and pricing lists */
+.rectangle1 ul li {
+	font-size: 0.9em;
+	list-style: none;
+	line-height: 70%;
+}
+
+/* Plans and pricing-individual, sm bus, enterprise headers */
+.rectangle2 {
+	border-radius: 5px;
+	border: thin dotted gray;
+	margin-top: 0px;
+	margin-bottom: 1px;
+	margin-left: 65px;
+	text-align: center;
+	background: #000;
+	color: white;
+	width: 145px;
+	height: 25px;
+	padding-top: 3px;
+}
+
+/* plans and pricing urchase button */
+.rectangle3 {
+	border-radius: 5px;
+	border: thin solid black;
+	margin-bottom: 10px;
+	margin-top: 25px;
+	text-align: center;
+	width: 100px;
+	background: #0020e2;
+	color: #fff;
+}
+
+/* question in plans and pricing rectangle */
+.question {
+	text-align: center;
+	color: #1241ac;
+}
+
+/* company logos section */
+#logos {
+	padding-top: 25px;
+	padding-bottom: 35px;
+}
+
+/* company logos h4 */
+#logos h4 {
+	color: #1241ac;
+	text-align: left;
+}
+
+/* company logo images */
+#logos img {
+	margin-left: 100px;
+	padding-top: 20px;
+}
+
+/* footer section */
+#footer {
+	background-color: #4f72c1;
+	color: white;
+	padding-top: 30px;
+}
+
+#footer a {
+	color: #fff;
+}
+
+#footer ul li {
+	list-style: none;
+	line-height: 25%;
+	padding-top: 8px;
+	font-size: 0.8em;
+}
+
+#footer p {
+	color: #fff;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+
+
