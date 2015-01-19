@@ -6,4 +6,4 @@ This is the fourth line of text.
 
 This is the second commit
 
-This is a new branch
+Here is the sentence used for the test-branch in GIT.  I think I am really liking GIT much more!
